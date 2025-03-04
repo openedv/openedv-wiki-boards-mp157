@@ -1,0 +1,8 @@
+{
+  "label": "第四章 ATK-STM32MP157功能测试",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description":"本章将介绍如何测试ATK-STM32MP157开发板。这里说明了开发板的使用方法及测试方法。对开发有很大帮助。"
+  }
+}
